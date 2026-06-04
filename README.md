@@ -2,6 +2,8 @@
 
 Code associated with a single-nucleus RNA-seq atlas of the aging postmenopausal human ovary preprint: **Single-nucleus profiling reveals age-associated remodeling opposed by parity in the postmenopausal human ovary** (https://www.biorxiv.org/content/10.64898/2026.05.11.724381v1).
 
+Interested in exploring the data yourself? Check out our interactive data app: https://huggingface.co/spaces/josef-byrne/postmenopausal-ovary-atlas-browser
+
 ## Overview
 
 This repository contains scripts and notebooks used to process 10x Genomics Flex snucRNA-seq data, curate donor/sample metadata, perform cell type annotation, and run downstream analyses including pseudobulk differential expression, GTEx ovary bulk RNA-seq deconvolution, compositional modeling, Milo neighborhood-level differential abundance analysis, and cell-cell communication analysis.
